@@ -1,24 +1,25 @@
 # 小米电视去广告Hosts
 1. 小米官方广告域名<br>
-|      域名     |      说明     | <br>
+
+|      域名     |      说明     | 
 | ------------- | ------------- |
-| ad.mi.com	| 小米官方广告主域名| <br>
-| ad.xiaomi.com	| 小米官方广告主域名| <br>
-| ad1.xiaomi.com	| 小米官方广告子域名| <br>
-| tat.pandora.xiaomi.com | 小米广告追踪服务| <br>
-| api.ad.xiaomi.com	| 小米广告API接口| <br>
-| stat.pandora.xiaomi.com	| 米广告统计服| 务<br>
-| upgrade.mishop.pandora.xiaomi.com	| 小米应用商店升级广告| <br>
-| logonext.tv.kuyun.com	| 小米电视登录广告| <br>
-| config.kuyun.com	| 小米电视配置广告| <br>
-| mishop.pandora.xiaomi.com	| 小米应用商店广告| <br>
-| dvb.pandora.xiaomi.com	| 小米电视DVB服务广告| <br>
-| de.pandora.xiaomi.com	| 小米电视应用服务广告| <br>
-| data.mistat.xiaomi.com	| 小米电视数据统计服务| <br>
-| jellyfish.pandora.xiaomi.com	| 小米电视内容服务广告| <br>
-| gallery.pandora.xiaomi.com	| 小米电视画廊服务广告| <br>
-| bss.pandora.xiaomi.com	| 小米电视业务服务广告| <br>
-| o2o.api.xiaomi.com	| 小米电视O2O服务广告| <br>
+| ad.mi.com	| 小米官方广告主域名|
+| ad.xiaomi.com	| 小米官方广告主域名| 
+| ad1.xiaomi.com	| 小米官方广告子域名|
+| tat.pandora.xiaomi.com | 小米广告追踪服务|
+| api.ad.xiaomi.com	| 小米广告API接口| 
+| stat.pandora.xiaomi.com	| 米广告统计服务|
+| upgrade.mishop.pandora.xiaomi.com	| 小米应用商店升级广告| 
+| logonext.tv.kuyun.com	| 小米电视登录广告|
+| config.kuyun.com	| 小米电视配置广告| 
+| mishop.pandora.xiaomi.com	| 小米应用商店广告| 
+| dvb.pandora.xiaomi.com	| 小米电视DVB服务广告|
+| de.pandora.xiaomi.com	| 小米电视应用服务广告| 
+| data.mistat.xiaomi.com	| 小米电视数据统计服务| 
+| jellyfish.pandora.xiaomi.com	| 小米电视内容服务广告| 
+| gallery.pandora.xiaomi.com	| 小米电视画廊服务广告| 
+| bss.pandora.xiaomi.com	| 小米电视业务服务广告| 
+| o2o.api.xiaomi.com	| 小米电视O2O服务广告| 
 2. 第三方广告域名<br>
 域名	说明<br>
 hpplay.cdn.cibn.cc	惠普投屏广告<br>
