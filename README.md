@@ -20,51 +20,54 @@
 | gallery.pandora.xiaomi.com	| 小米电视画廊服务广告| 
 | bss.pandora.xiaomi.com	| 小米电视业务服务广告| 
 | o2o.api.xiaomi.com	| 小米电视O2O服务广告| 
+
 2. 第三方广告域名<br>
-域名	说明<br>
-hpplay.cdn.cibn.cc	惠普投屏广告<br>
-t7z.cupid.ptqy.gitv.tv	小米电视投屏广告<br>
-api.dianshihome.com	电视家广告API<br>
-prime.dianshihome.com	电视家广告更新服务<br>
-android.bugly.qq.com	腾讯Bugly广告统计<br>
-gsyxvip.com	高速下载会员广告<br>
-f1市场.xiaomi.com	小米市场广告<br>
-f2市场.xiaomi.com	小米市场广告<br>
-f3市场.xiaomi.com	小米市场广告<br>
-f4市场.xiaomi.com	小米市场广告<br>
-f5市场.xiaomi.com	小米市场广告<br>
-f1市场.mi-img.com	小米市场图片服务广告<br>
-f2市场.mi-img.com	小米市场图片服务广告<br>
-f3市场.mi-img.com	小米市场图片服务广告<br>
-f4市场.mi-img.com	小米市场图片服务广告<br>
-f5市场.mi-img.com	小米市场图片服务广告<br>
-file.xmpush.xiaomi.com	小米推送服务广告<br>
-g.dtv.cn.miaozhan.com	蜜柚视频广告<br>
-milink.pandora.xiaomi.com	小米电视设备连接服务广告<br>
-misc.pandora.xiaomi.com	小米电视杂项服务广告<br>
-mitv.tracking.miui.com	小米电视MIUI追踪服务广告<br>
-metok.sys.miui.com	小米电视系统服务广告<br>
-staging.ai.api.xiaomi.com	小米电视AI服务广告<br>
-tv.weixin.pandora.xiaomi.com	小米电视微信服务广告<br>
-tvmanager.pandora.xiaomi.com	小米电视管理服务广告<br>
-tvmgr.pandora.xiaomi.com	小米电视管理服务广告<br>
-register.xmpush.xiaomi.com	小米推送服务注册广告<br>
-pandora.mi.com	小米电视服务主域名<br>
-redirect.pandora.xiaomi.com	小米电视服务重定向域名<br>
-broker.mqtt.pandora.xiaomi.com	小米电视MQTT服务广告<br>
-b.netcheck gallery.pandora.xiaomi.com	小米电视画廊服务广告<br>
-userapi.hpplay.com.cn	惠普投屏用户API广告<br>
-leboapi.hpplay.com.cn	惠普投屏乐播API广告<br>
-api.hpplay.com.cn	惠普投屏API广告<br>
-h5.hpplay.com.cn	惠普投屏H5广告<br>
-rp.hpplay.cn	惠普投屏服务广告<br>
-tvapp.hpplay.cn	惠普投屏电视应用广告<br>
-pin.hpplay.cn	惠普投屏定位服务广告<br>
-adcdn.hpplay.cn	惠普投屏广告CDN<br>
-sl.hpplay.cn	惠普投屏服务广告<br>
-rp.hpplay.com.cn	惠普投屏服务广告<br>
-cdn.hpplay.com.cn	惠普投屏CDN广告<br>
-fix.hpplay.cn	惠普投屏修复服务广告<br>
-adeng.hpplay.cn	惠普投屏广告引擎<br>
-api.io.mi.com	小米服务接口(需谨慎处理)<br>
-device.io.mi.com	小米设备服务接口(需谨慎处理)<br>
+
+| 域名	| 说明 | 
+| ------------- | ------------- |
+| hpplay.cdn.cibn.cc 	| 惠普投屏广告|
+| t7z.cupid.ptqy.gitv.tv	| 小米电视投屏广告| 
+| api.dianshihome.com	| 电视家广告API| 
+prime.dianshihome.com	| 电视家广告更新服务| 
+| android.bugly.qq.com	| 腾讯Bugly广告统计| 
+| gsyxvip.com	| 高速下载会员广告| 
+| f1市场.xiaomi.com	| 小米市场广告| 
+| f2市场.xiaomi.com	| 小米市场广告| 
+| f3市场.xiaomi.com	| 小米市场广告| 
+| f4市场.xiaomi.com	| 小米市场广告| 
+| f5市场.xiaomi.com	| 小米市场广告| 
+| f1市场.mi-img.com	| 米市场图片服务广告| 
+| f2市场.mi-img.com	| 小米市场图片服务广告| 
+| f3市场.mi-img.com	| 小米市场图片服务广告| 
+| f4市场.mi-img.com	| 小米市场图片服务广告|  
+| f5市场.mi-img.com	| 小米市场图片服务广告| 
+| file.xmpush.xiaomi.com	| 小米推送服务广告| 
+| g.dtv.cn.miaozhan.com	| 蜜柚视频广告| 
+| milink.pandora.xiaomi.com	| 小米电视设备连接服务广告| 
+| misc.pandora.xiaomi.com	| 小米电视杂项服务广告| 
+| mitv.tracking.miui.com	| 小米电视MIUI追踪服务广告| 
+| metok.sys.miui.com	| 小米电视系统服务广告| 
+| staging.ai.api.xiaomi.com	| 小米电视AI服务广告| 
+| tv.weixin.pandora.xiaomi.com	| 小米电视微信服务广告| 
+| tvmanager.pandora.xiaomi.com	| 小米电视管理服务广告| 
+| tvmgr.pandora.xiaomi.com	| 小米电视管理服务广告| 
+| register.xmpush.xiaomi.com	| 小米推送服务注册广告| 
+| pandora.mi.com	| 小米电视服务主域名| 
+| redirect.pandora.xiaomi.com	| 小米电视服务重定向域名| 
+| broker.mqtt.pandora.xiaomi.com	| 小米电视MQTT服务广告| 
+| b.netcheck gallery.pandora.xiaomi.com	| 小米电视画廊服务广告| 
+| userapi.hpplay.com.cn	| 惠普投屏用户API广告| 
+| leboapi.hpplay.com.cn	| 惠普投屏乐播API广告| 
+| api.hpplay.com.cn	| 惠普投屏API广告| 
+| h5.hpplay.com.cn	| 惠普投屏H5广告| 
+| rp.hpplay.cn	| 惠普投屏服务广告| 
+| tvapp.hpplay.cn	| 惠普投屏电视应用广告| 
+| pin.hpplay.cn	| 惠普投屏定位服务广告| 
+| adcdn.hpplay.cn	| 惠普投屏广告CDN| 
+| sl.hpplay.cn	| 惠普投屏服务广告| 
+| rp.hpplay.com.cn	| 惠普投屏服务广告| 
+| cdn.hpplay.com.cn	| 惠普投屏CDN广告| 
+| fix.hpplay.cn	| 惠普投屏修复服务广告| 
+| adeng.hpplay.cn	| 惠普投屏广告引擎| 
+| api.io.mi.com	| 小米服务接口(需谨慎处理)| 
+| device.io.mi.com	| 小米设备服务接口(需谨慎处理)| 
