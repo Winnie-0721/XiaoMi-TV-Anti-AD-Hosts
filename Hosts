@@ -140,3 +140,9 @@
 ::1 cloud.hpplay.cn
 127.0.0.1 ftp.hpplay.com.cn
 ::1 ftp.hpplay.com.cn
+
+#注意：若您使用小米路由器或米家APP，请保留以下两条域名的访问，否则会导致米家APP无法正常工作：
+#127.0.0.1 api.io.mi.com
+#::1 api.io.mi.com
+#127.0.0.1 device.io.mi.com
+#::1 device.io.mi.com
